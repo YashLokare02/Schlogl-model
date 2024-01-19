@@ -1,3 +1,5 @@
+## Authors: Tilas Kabengele
+
 ## Importing relevant libraries
 import numpy as np
 
@@ -47,6 +49,6 @@ def get_volume_array(start_V, stop_V, n_operator_qubits):
 
     return volume_array
 
-# Computing thr block diagonal representation of the Schlogl operator matrix
+# Computing the block diagonal representation of the Schlogl operator matrix
 Q0 = np.zeros((len(Q), len(Q)))
 hermitian_matrix = np.block([[Q0, Q], [Q.T, Q0]])
