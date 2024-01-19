@@ -1,3 +1,5 @@
+## Authors: Yash Lokare
+
 ## Importing relevant libraries
 
 import numpy as np
