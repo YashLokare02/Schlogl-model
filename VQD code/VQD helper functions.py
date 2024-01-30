@@ -1,3 +1,5 @@
+Authors: Tilas Kabengele
+
 # helper functions for quantum computing
 
 import numpy as np
