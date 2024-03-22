@@ -1758,11 +1758,12 @@ def error_analysis(U, min_eigenvalue, U_learned, V_dagger_learned, singular_valu
     ax.plot(list(range(1, rank + 1)), err_subfull, "o-.",
             label = 'Reconstruction via VQSVD')
     ax.plot(list(range(1, rank + 1)), err_SVD, "^--",
-            label = 'Reconstruction via SVD')
-    plt.xlabel('Singular values used (rank)', fontsize = 14)
-    plt.ylabel('Norm distance', fontsize = 14)
+            label = 'Reconstruction via classical SVD')
+    plt.xlabel('Singular values used (rank)', fontsize = 17)
+    plt.ylabel('Norm distance', fontsize = 17)
     leg = plt.legend(frameon = True)
     leg.get_frame().set_edgecolor('k')
+    plt.grid(True)
 
     ## Plotting norm distance difference
     # Get the difference
