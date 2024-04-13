@@ -8,3 +8,5 @@ The following Qiskit software versions are needed to run **QPE + DD + VQSVD**: a
 The following Qiskit software versions are needed to run **VQD**: a) qiskit-terra: 0.25.1; b) qiskit-algorithms: 0.1.0; c) qiskit: 0.44.1. 
 
 We use the Python ***poetry*** package management system to manage all package dependencies in Python. 
+
+**Note**: The DD analysis and/or results contained in this repository is irrelevant for the present study. 
