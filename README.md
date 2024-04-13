@@ -9,4 +9,4 @@ The following Qiskit software versions are needed to run **VQD**: a) qiskit-terr
 
 We use the Python ***poetry*** package management system to manage all package dependencies in Python. 
 
-**Note**: The DD analysis and/or results contained in this repository is irrelevant for the present study. 
+**Note**: The DD analysis and/or results contained in this repository are irrelevant for the present study. 
