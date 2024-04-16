@@ -1,8 +1,23 @@
-@misc{kabengele2024modeling,
-      title={Modeling Stochastic Chemical Kinetics on Quantum Computers}, 
-      author={Tilas Kabengele and Yash M. Lokare and J. B. Marston and Brenda M. Rubenstein},
-      year={2024},
-      eprint={2404.08770},
-      archivePrefix={arXiv},
-      primaryClass={quant-ph}
-}
+cff-version: 1.2.0
+message: "Cite this paper as follows:"
+authors:
+- family-names: "Kabengele"
+  given-names: "Tilas"
+
+- family-names: "Lokare"
+  given-names: "Yash M."
+
+- family-names: "Marston"
+  given-names: "J. B."
+
+- family-names: "Rubenstein"
+  given-names: "Brenda M."
+
+title: "Modeling Stochastic Chemical Kinetics on Quantum Computers"
+doi: arXiv:2404.08770
+date-released: 2024-04-12
+year = {2024}
+eprint = {2404.08770}
+archivePrefix = {arXiv}
+primaryClass = {quant-ph}
+url: "https://arxiv.org/abs/2404.08770"
