@@ -1,23 +1,18 @@
 cff-version: 1.2.0
 message: "Cite this paper as follows:"
-authors:
-- family-names: "Kabengele"
-  given-names: "Tilas"
-
-- family-names: "Lokare"
-  given-names: "Yash M."
-
-- family-names: "Marston"
-  given-names: "J. B."
-
-- family-names: "Rubenstein"
-  given-names: "Brenda M."
-
-title: "Modeling Stochastic Chemical Kinetics on Quantum Computers"
-doi: arXiv:2404.08770
-date-released: 2024-04-12
-year = {2024}
-eprint = {2404.08770}
-archivePrefix = {arXiv}
-primaryClass = {quant-ph}
-url: "https://arxiv.org/abs/2404.08770"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Kabengele"
+    given-names: "Tilas"
+  - family-names: "Lokare"
+    given-names: "Yash M."
+  - family-names: "Marston"
+    given-names: "J. B."
+  - family-names: "Rubenstein"
+    given-names: "B. M."
+  doi: "https://arxiv.org/abs/2404.08770"
+  journal: "arXiv"
+  month: 4
+  title: "Modeling Stochastic Chemical Kinetics on Quantum Computers"
+  year: 2024
