@@ -13,6 +13,21 @@ We use the Python ***poetry*** package management system to manage all package d
 
 **Note**: The DD analysis and/or results contained in this repository are irrelevant for the present study. 
 
+## Citation
+
+Cite this paper as follows: 
+
+@misc{kabengele2024modeling,
+      title = {Modeling Stochastic Chemical Kinetics on Quantum Computers}, 
+      author = {Tilas Kabengele and Yash M. Lokare and J. B. Marston and Brenda M. Rubenstein},
+      year = {2024},
+      eprint = {2404.08770},
+      archivePrefix = {arXiv},
+      primaryClass = {quant-ph}
+}
+
+## Usage
+
 Cite this paper as follows: 
 
 @misc{kabengele2024modeling,
