@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "Cite this paper as follows:"
 preferred-citation:
-  type: article
+  type: generic
   authors:
   - family-names: "Kabengele"
     given-names: "Tilas"
@@ -10,9 +10,11 @@ preferred-citation:
   - family-names: "Marston"
     given-names: "J. B."
   - family-names: "Rubenstein"
-    given-names: "B. M."
+    given-names: "Brenda M."
   doi: "https://arxiv.org/abs/2404.08770"
   journal: "arXiv"
-  month: 4
+  eprint: 2404.08770
+  archivePrefix: arXiv
+  primaryClass: quant-ph
   title: "Modeling Stochastic Chemical Kinetics on Quantum Computers"
   year: 2024
