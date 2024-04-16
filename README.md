@@ -1,5 +1,7 @@
 # Schlogl Model
-This repository contains code to implement the classical and quantum subroutines for the paper ***Modeling Stochastic Chemical Kinetics on Quantum Computers***. 
+This repository contains code to implement the classical and quantum subroutines for the paper ***Modeling Stochastic Chemical Kinetics on Quantum Computers***.
+
+Link to the paper: [arXiv:2404.08770](https://arxiv.org/abs/2404.08770).
 
 **Authors**: T. Kabengele, Y. M. Lokare, J. B. Marston, and B. M. Rubenstein. 
 
