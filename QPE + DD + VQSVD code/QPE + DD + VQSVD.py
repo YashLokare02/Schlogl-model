@@ -2024,11 +2024,11 @@ def generate_layout(U, num_precision_qubits, num_query_qubits, optimization_leve
     # Plot the QPE circuit layout on the IBMQ backend
     plot_circuit_layout(transpiled_circuit, backend, view = 'physical') # visualization of the physical qubit mapping; also possible is 'virtual'
 
-    ## The code below generates heatmap plots to visualize the sparsity of the Schlogl operator(s)
-    # Create axes for heatmap plot
-    fig, ax = plt.subplots()
-    ax2 = sns.heatmap(hermitian_matrix, linewidth = 0.5, cmap = 'seismic')
-    ax.set_axis_off()
+## The code below generates heatmap plots to visualize the sparsity of the Schlogl operator(s)
+# Create axes for heatmap plot
+fig, ax = plt.subplots()
+ax2 = sns.heatmap(hermitian_matrix, linewidth = 0.5, cmap = 'seismic')
+ax.set_axis_off()
 
-    # Show the plot
-    plt.show()
+# Show the plot
+plt.show()
