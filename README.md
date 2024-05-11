@@ -24,10 +24,7 @@ We use the Python ***poetry*** package management system to manage all package d
 
 Cite this paper as follows: 
 
-> @misc{kabengele2024modeling,
-> title={Modeling Stochastic Chemical Kinetics on Quantum Computers}, 
-> author={Tilas Kabengele and Yash M. Lokare and J. B. Marston and Brenda M. Rubenstein},
-> year={2024},
-> eprint={2404.08770},
-> archivePrefix={arXiv},
-> primaryClass={quant-ph}, }
+> @misc{Paddlequantum,
+> title = {{Paddle Quantum}},
+> year = {2020},
+> url = {https://github.com/PaddlePaddle/Quantum}, }
