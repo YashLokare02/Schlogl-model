@@ -1,8 +1,12 @@
 # Schlogl Model
 
+<div align="center">
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?logo=Qiskit&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/paddle-quantum?style=flat&logoColor=%23FF0000&label=PaddleQuantum&link=https%3A%2F%2Fgithub.com%2FPaddlePaddle%2FQuantum)
+
+</div>
 
 This repository contains code to implement the classical and quantum subroutines for the paper ***Modeling Stochastic Chemical Kinetics on Quantum Computers***.
 
